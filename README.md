@@ -4,7 +4,7 @@ Angular 7 - Role Based Authorization Example
 
 Pre-requisites
 1. node js
-2. Angular 
+2. Angular 7
 
 How to run this code : 
 
